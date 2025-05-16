@@ -1,0 +1,10 @@
+name: demo_1
+channels:
+  - conda-forge
+dependencies:
+  - python=3.13
+  - pip
+  - pip:
+      - argparse
+      - pykernel
+
