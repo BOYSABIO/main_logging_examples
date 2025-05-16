@@ -1,0 +1,4 @@
+2025-05-16 18:52:36 - INFO - Logging configured from YAML file!
+2025-05-16 18:52:36 - WARNING - This is a warning using YAML-configured logging.
+2025-05-16 18:52:40 - INFO - This log uses our reusable setup function from YAML config!
+2025-05-16 18:52:40 - WARNING - This warning also uses the config-driven logger.
